@@ -3,6 +3,7 @@
  */
 package fr.diginamic.chaines;
 
+
 import fr.diginamic.entites.Salarie;
 
 /**

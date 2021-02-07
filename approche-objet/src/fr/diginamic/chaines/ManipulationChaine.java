@@ -9,6 +9,7 @@ import fr.diginamic.entites.Salarie;
  * @author Ness'ti
  *
  */
+
 public class ManipulationChaine {
 
 	public static void main(String[] args) {

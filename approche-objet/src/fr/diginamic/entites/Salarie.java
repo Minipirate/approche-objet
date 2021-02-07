@@ -3,7 +3,6 @@
  */
 package fr.diginamic.entites;
 
-
 /**
  * @author Ness'ti
  *
